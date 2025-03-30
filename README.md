@@ -27,5 +27,5 @@ Uppgiften bygger på att vi ska bryta ner texten i user stories och sedan bryta 
 - Välj ut vilka delar av texten är viktiga för att få sidan fungera enligt beskrivning.
 - Utifrån dessa delar - skapa user stories.
 - Bryt ner user stories till tasks.
-- 
+  
 Använd gärna Trello för att skriva ner era user stories och bryta ut dessa till tasks. Arbeta i era basgrupper och diskutera mycket - viktigt att alla får säga vad de tycker!
